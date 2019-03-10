@@ -1,1 +1,1 @@
-i found most of this code on github i have made small changes to make it more fun and realistic as a fisherman myself, hope its ok to do that i am just learning python at home, credit goes to BartMassey for the base code.
+i found most of this code on github i have made small changes to make it more fun and realistic as a fisherman myself, hope its ok to do that i am just learning python at home, credit goes to BartMassey for the base code. tryed adding more fish but u cant catch them 
